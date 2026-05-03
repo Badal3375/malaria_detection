@@ -1,7 +1,35 @@
+
+📜 License
+
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Badal Singh 
+AI/ML Developer | Deep Learning Enthusiast
+
+🌟 Acknowledgment
+
+Special thanks to:
+
+NIH Malaria Dataset
+TensorFlow Community
+OpenCV Contributors
+📬 Contact
+
+For queries or collaboration:
+
+Email:singh.badal3375@gmail.com 
+LinkedIn:https://www.linkedin.com/in/badalsingh91/
+
+
 Malaria Detection Using Deep Learning
+
+
 📌 Project Overview
 
-This project is a Malaria Detection System built using Deep Learning (CNN - Convolutional Neural Network) to classify cell images as Parasitized or Uninfected. The model analyzes microscopic blood smear images and helps in early malaria diagnosis with high accuracy.
+This project is a Malaria Detection System built using Deep Learning (CNN - Convolutional Neural Network) to classify cell images as Parasitised or Uninfected. The model analyses microscopic blood smear images and helps in early malaria diagnosis with high accuracy.
 
 The system can be integrated into:
 
@@ -9,6 +37,7 @@ Web Applications (Flask/Django/Streamlit)
 Mobile Health Apps
 Clinical Decision Support Systems
 🎯 Objectives
+
 Detect malaria parasites from blood smear images automatically
 Reduce manual diagnostic errors
 Provide faster and more accurate predictions
@@ -46,6 +75,7 @@ TensorFlow / Keras
 OpenCV
 NumPy
 Matplotlib
+
 Streamlit / Flask (for deployment)
 ⚙️ Installation
 Step 1: Clone Repository
@@ -68,8 +98,8 @@ Train-Test Split
 Training Parameters:
 Epochs: 10–25
 Batch Size: 32
-Optimizer: Adam
-Loss Function: Binary Crossentropy
+Optimiser: Adam
+Loss Function: Binary Cross-Entropy
 📈 Performance Metrics
 Accuracy: ~90–95%
 Precision
@@ -80,9 +110,9 @@ Upload blood smear image
 Real-time malaria prediction
 User-friendly interface
 High accuracy
-Deployable on cloud
+Deployable on the cloud
 📷 Sample Output
-Prediction: Parasitized
+Prediction: Parasitised
 Confidence Score: 97.5%
 📁 Project Structure
 malaria-detection/
@@ -97,7 +127,7 @@ malaria-detection/
 🔍 Future Enhancements
 Multi-class parasite stage detection
 Mobile app deployment
-Explainable AI (Grad-CAM visualization)
+Explainable AI (Grad-CAM visualisation)
 Cloud integration for hospitals
 🤝 Contribution
 
@@ -112,21 +142,4 @@ Submit a Pull Request
 
 This project is licensed under the MIT License.
 
-👨‍💻 Author
-
-Badal Singh 
-AI/ML Developer | Deep Learning Enthusiast
-
-🌟 Acknowledgment
-
-Special thanks to:
-
-NIH Malaria Dataset
-TensorFlow Community
-OpenCV Contributors
-📬 Contact
-
-For queries or collaboration:
-
-Email:singh.badal3375@gmail.com 
-LinkedIn:https://www.linkedin.com/in/badalsingh91/
+ 
