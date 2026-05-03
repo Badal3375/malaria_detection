@@ -20,7 +20,10 @@ OpenCV Contributors
 
 For queries or collaboration:
 
+
 Email:singh.badal3375@gmail.com 
+
+
 LinkedIn:https://www.linkedin.com/in/badalsingh91/
 
 
