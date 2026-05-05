@@ -108,6 +108,9 @@ Accuracy: ~90–95%
 Precision
 Recall
 F1-Score
+
+## 🧬 DNA Testing Mode
+New feature: Analyze DNA test images (PCR, gel electrophoresis) using the same CNN model trained on cell images. Upload DNA images for binary classification (Uninfected/Parasitized). Select "DNA Testing" in the sidebar.
 🚀 Features
 Upload blood smear image
 Real-time malaria prediction
