@@ -45,7 +45,7 @@ languages = {
     "English": "en",
     "Hindi": "hi",
     "Punjabi": "pa",
-    "Haryanvi": "hr"
+    "Haryanvi": "ha"
 }
 
 selected_language = st.sidebar.selectbox(

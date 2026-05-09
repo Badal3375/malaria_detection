@@ -18,7 +18,7 @@ import os
 # PAGE CONFIG
 # -----------------------------------
 st.set_page_config(
-    page_title="MalariaAI",
+    page_title="Malaria AI",
     page_icon="🧬",
     layout="centered"
 )
@@ -85,7 +85,7 @@ languages = {
     "English": "en",
     "Hindi": "hi",
     "Punjabi": "pa",
-    "Haryanvi": "hr"
+    "Haryanvi": "ha"
     
 }
 
